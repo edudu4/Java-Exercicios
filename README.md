@@ -8,7 +8,7 @@ O conteúdo postado cobre desde a iniciação em Java até o nível intermediár
 Boa parte das questões propostas vem do canal CursoemVideo. Recomendo fortemente que use este repositório como material de apoio para as videoaulas ou para algum livro/apostila.
 
 # Conteúdo
-OlaMundoFX, Operadores, Condicionais, Estruturas de Repetião, Vetores, Classes e Objetos, Agregação, Encapsulamento, Herança e Polimorfismo etc. Sim, houve bastante classe reutilizada.
+OlaMundoFX, Operadores, Condicionais, Estruturas de Repetião, Vetores, Classes e Objetos, Agregação, Encapsulamento, Herança e Polimorfismo etc. Sim, houveram bastante classes reutilizadas na parte Avançada.
 
 # Objetivo
 Este repositório foi feito com o propósito de relembrar, ou até mesmo usar como material de apoio, sendo que o foco do mesmo é sua praticidade para qualquer um. Contudo, ele existe também para que alguém interessado veja e confirme que realmente tenho alguma noção da linguagem.
