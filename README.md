@@ -1,5 +1,5 @@
 # JavaExercicios
-Material resolvido por mim durante meus estudos em Java. Tento ao máximo deixar o código bem estruturado e, em alguns raros momentos, comentado. Vale ressaltar que visei bastante organizar os exercícios para que estejam sequenciais.
+Material resolvido por mim durante meus estudos em Java. Tento ao máximo deixar o código bem estruturado e, em alguns raros momentos, comentado. Vale ressaltar que visei bastante organizar os exercícios para que estejam sequenciais. Caso veja alguma pasta, provavelmente será porque a mesma é necessária.
 
 # Basico ao Avançado
 O conteúdo postado cobre desde a iniciação em Java até o nível intermediário da POO(Programação Orientada a Objetos).
